@@ -4,6 +4,9 @@ public:
         int l=1;
         int h=x;
         int ans=0;
+        if(x==0){
+            return 0;
+        }
         while(l<=h){
             int mid=l+(h-l)/2;
             if(mid>x/mid){
@@ -11,7 +14,6 @@ public:
             }else{
                 ans=mid;
                 l=mid+1;
-
             }
         }
         return ans;
