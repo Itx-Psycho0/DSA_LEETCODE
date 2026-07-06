@@ -5,12 +5,12 @@ public:
         int h=nums.size()-1;
         int l1=0;
         int h1=nums.size()-1;
-        int f=-1;
+        int first=-1;
         int last=-1;
         while (l<=h){
             int mid=l+(h-l)/2;
             if(nums[mid]==target){
-                f=mid;
+                first=mid;
                 h=mid-1;
             }else if(nums[mid]<target){
                 l=mid+1;
@@ -31,6 +31,6 @@ public:
             }
 
         } 
-        return {f,last} ;
+        return {first,last} ;
     }
 };
