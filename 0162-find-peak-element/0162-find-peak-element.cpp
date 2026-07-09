@@ -11,8 +11,6 @@ public:
                 h=mid;
             }
         }
-        return h;
-
-        
+        return h;    
     }
 };
