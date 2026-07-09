@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
