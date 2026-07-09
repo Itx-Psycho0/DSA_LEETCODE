@@ -5,8 +5,7 @@ public:
         for(string v : strs){
             string copy=v;
             sort(copy.begin(),copy.end());
-
-                mp[copy].push_back(v);
+            mp[copy].push_back(v);
         }
         vector<vector<string>> ans={};
         for(const auto& pair:mp){
