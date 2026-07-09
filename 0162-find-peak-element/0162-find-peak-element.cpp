@@ -7,13 +7,10 @@ public:
             int mid=l+(h-l)/2;
             if(nums[mid]<nums[mid+1]){
                 l=mid+1;
-
             }else{
                 h=mid;
             }
-
         }
-
         return h;
 
         
