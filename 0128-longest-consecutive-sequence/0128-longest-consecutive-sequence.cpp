@@ -1,32 +1,23 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        int maxL=1;
+        int curr=1;
         if(nums.size()==0){
             return 0;
         }
-        vector<int> arr = nums;
-        sort(arr.begin(),arr.end());
-        // for(int v:arr){
-        //     cout<<v<<" ";
-        // }
-        int c=1;
-        int v=arr[0];
-        unordered_map <int,int> mp={};
-        for(int i=1; i<arr.size(); i++){
-            if(arr[i]!=v+1 && arr[i]!=v){
-                mp[c]++;
-                c=0;
-            }else if(arr[i]==v){
+        sort(nums.begin(),nums.end());
+        for(int i=1; i<nums.size(); i++){
+            if(nums[i]==nums[i-1]){
                 continue;
-            }
-            c++;
-            v=arr[i];
-        }
-        for(const auto& pair:mp){
-            if(pair.first > c){
-                c=pair.first;
+            }else if(nums[i]==(nums[i-1])+1){
+                curr++;
+            }else{
+                maxL = max(maxL,curr);
+                curr=1;
             }
         }
-        return c;
+        maxL=max(maxL,curr);
+        return maxL;
     }
 };
