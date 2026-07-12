@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
