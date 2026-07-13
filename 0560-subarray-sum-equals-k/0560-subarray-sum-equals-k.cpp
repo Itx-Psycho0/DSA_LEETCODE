@@ -10,7 +10,6 @@ public:
             int need = prefix-k;
             count+=mp[need];
             mp[prefix]++;
-
         }
         return count;
     }
