@@ -7,7 +7,7 @@ public:
         }
         int suffix = 1;
         for (int i = nums.size()-1; i>=0; i--){
-            ans[i]=suffix*ans[i];
+            ans[i]*=suffix;
             suffix*=nums[i];
         }
         return ans;
