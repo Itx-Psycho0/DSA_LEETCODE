@@ -8,7 +8,9 @@ public:
         for(int i =0; i<nums.size(); i++){
             prefix +=nums[i];
             int need = prefix-k;
-            count+=mp[need];
+            if (mp.contains(need)){
+                count+=mp[need];
+            }
             mp[prefix]++;
         }
         return count;
