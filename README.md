@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
