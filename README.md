@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
