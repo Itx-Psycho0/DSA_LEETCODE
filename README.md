@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
