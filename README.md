@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
