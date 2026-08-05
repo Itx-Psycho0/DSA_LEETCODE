@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
