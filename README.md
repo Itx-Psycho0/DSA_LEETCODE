@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
