@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
