@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
