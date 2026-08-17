@@ -4,7 +4,6 @@ public:
         int r = 0;
         for (int v : nums){
             r ^= v;
-
         }
         return r;
     }
