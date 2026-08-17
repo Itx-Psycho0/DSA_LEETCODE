@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
