@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Brainteaser
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Union-Find
 |  |
 | ------- |
