@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
