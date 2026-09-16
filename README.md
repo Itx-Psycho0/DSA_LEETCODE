@@ -214,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
