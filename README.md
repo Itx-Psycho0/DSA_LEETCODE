@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
