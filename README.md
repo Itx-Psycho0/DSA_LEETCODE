@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Itx-Psycho0/DSA_LEETCODE/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
